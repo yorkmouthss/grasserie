@@ -3,7 +3,7 @@ title:  "La dunkil la tiennent"
 description: Une dunkel.
 date:   2020-06-06 15:00:49 +0000
 categories: jekyll update
-styleB: "dunkel"
+styleB: dunkel
 layout: default
 ---
 
