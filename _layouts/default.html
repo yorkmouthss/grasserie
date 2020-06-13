@@ -3,31 +3,18 @@
 {% include head.html %}
 
 <body>
+    <header>
+        {% include navbar.html %}
+    </header>
     <div class="container">
         <div class="row">
-            <div class="col-12">
-                <h1>Grasserie</h1>
+            <div class="col-9">
+                {{content}}
+            </div>
+            <div class="col-3">
+                {% include aside.html %}
             </div>
         </div>
-        <div class="row">
-            <div class="col-xs-12 col-md-4">
-                <div class="card">
-                    <img src="images/grasserie.png" class="card-img-top" alt="photo bière artisanale">
-                    <div class="card-body">
-                      <h5 class="card-title">La triplette</h5>
-                      <p class="card-text">Une bière triple se basant sur la recette d'une Duvel.</p>
-                      <a href="#" class="btn btn-primary">Voir la recette</a>
-                    </div>
-                  </div>
-            </div>
-            <div class="col-xs-12 col-md-4">
-                <img src="images/grasserie.png" class="img-fluid"/>
-            </div>
-            <div class="col-xs-12 col-md-4">
-                Vignette 3
-            </div>
-        </div>
-
     </div>
     {% include footer.html %}
 </body>
