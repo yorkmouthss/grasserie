@@ -14,20 +14,30 @@ layout: default
 
 
 ## Un super bon Gateau au chocolat <br>
+<br>
+<br>
 
 ![Gateau de diane](/images/diane.jpg){:class="img-fluid"}
 
 #### Voici la recette: <br>
 
+##### Ingredients:
+
  - 150g de beurre (du demi sel c'est meilleur)
  - 150g de chocolat noir (70% c'est meilleur)
-Faire fondre les deux au micro-onde (ou au bain marie si t'as pas de micro onde ou que tu as envie de te faire chier)
+ - 150g de sucre
+ - 4 oeufs
+- 150g d'amandes en poudre
 
-##### Faire Blanchir:
- - 150g de sucre et 4 oeufs entiers
+##### Recette:
+<br>
+<br>
 
-Ajouter 150g d'amande en poudre
+Faire fondre le chocolat et le beurre au micro-onde.
 
-Rajouter le chocolat et le beurre fondus.
+Dans un saladier, faire blanchir les 150g de sucre et les 4 oeufs, y ajouter 150g d'amande en poudre puis y incorporer le beurre et le chocolat fondus.
 
-Faire cuire 20 minutes à 180°C à chaleur tournante, ou si vous utilisez un moule à cake 40min.
+##### Cuisson:
+
+Dans un plat rond: 20 minutes à 180°C.<br>
+Dans un moule à cake: 40 minutes à 180°C.
