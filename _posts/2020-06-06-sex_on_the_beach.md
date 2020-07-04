@@ -11,4 +11,4 @@ layout: default
 
 ## Une triple triple
 Lorem ipsum dolor
-![Photo de la biere!](/images/grasserie.png "tests")
+![Photo de la biere!](/images/grasserie.png "tests"){:class="img-fluid"}
