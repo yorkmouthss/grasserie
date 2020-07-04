@@ -30,4 +30,4 @@ Ajouter 150g d'amande en poudre
 
 Rajouter le chocolat et le beurre fondus.
 
-Faire cuire 20mùin à 180°C à chaleur tournante, ou si vous utilisez un moule à cake 40min.
+Faire cuire 20 minutes à 180°C à chaleur tournante, ou si vous utilisez un moule à cake 40min.
