@@ -7,20 +7,17 @@ styleB: gateau
 layout: default
 ---
 
-# La recette du gateau de Diane <br>
+# La recette du gâteau de Diane <br>
 <br>
 <br>
 <br>
 
 
-## Un super bon Gateau au chocolat <br>
+## Un super bon gâteau au chocolat <br>
 <br>
 <br>
 
-![Gateau de diane](/images/diane.jpg){:class="img-fluid"}
-
-#### Voici la recette:
-<br>
+![Gateau de diane](/images/diane.jpg){:class="img-fluid"} =250x
 
 ##### Ingredients:
 
