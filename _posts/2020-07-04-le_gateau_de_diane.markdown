@@ -19,7 +19,8 @@ layout: default
 
 ![Gateau de diane](/images/diane.jpg){:class="img-fluid"}
 
-#### Voici la recette: <br>
+#### Voici la recette:
+<br>
 
 ##### Ingredients:
 
@@ -28,12 +29,12 @@ layout: default
  - 150g de sucre
  - 4 oeufs
 - 150g d'amandes en poudre
+<br>
+
 
 ##### Recette:
-<br>
-<br>
 
-Faire fondre le chocolat et le beurre au micro-onde.
+Faire fondre le chocolat et le beurre au micro-onde (300w).
 
 Dans un saladier, faire blanchir les 150g de sucre et les 4 oeufs, y ajouter 150g d'amande en poudre puis y incorporer le beurre et le chocolat fondus.
 
