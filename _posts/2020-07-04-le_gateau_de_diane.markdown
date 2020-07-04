@@ -17,7 +17,7 @@ layout: default
 <br>
 <br>
 
-![Gateau de diane](/images/diane.jpg){:class="img-fluid"} =250x
+![Gateau de diane](/images/diane.jpg){:class="img-fluid"}
 
 ##### Ingredients:
 
